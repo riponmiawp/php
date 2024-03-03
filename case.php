@@ -5,7 +5,7 @@ echo "Hello Ripon <br/>";
 $name = "Bangladesh";
 
 echo $name;
-echo $namE;
+//echo $namE;
 
 
 
